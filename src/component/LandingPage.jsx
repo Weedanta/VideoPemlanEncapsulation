@@ -27,7 +27,7 @@ const LandingPage = () => {
               📝 Absensi Mahasiswa
             </h2>
             <p className="text-sm text-slate-300 mb-6 text-center">
-              Silahkan isi form berikut untuk melakukan absensi peserta.
+              Silahkan isi form berikut untuk melakukan absensi peserta. Pastikan untuk mengisi form dengan sebelum tenggat yang diberikan pada GCR
             </p>
 
             <form 
